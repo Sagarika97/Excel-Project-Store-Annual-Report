@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a Dashboard _[Vrinda Store Annual Report](https://github.com/A-Sagarika97/Excel-Store-Annual-Report/blob/main/excel_project_Vrinda%20store%20data%20analysis.pdf)_ that give insights about
+    **1.** Create a Dashboard _[Vrinda Store Annual Report](https://github.com/Sagarika97/Excel-Project-Store-Annual-Report/blob/main/excel_project_Vrinda%20store%20data%20analysis.pdf)_ that give insights about
   
      - [x]	sales and orders.
      - [x]	who purchased more . 
